@@ -1,1 +1,2 @@
-product işlemleri yaptık.
+product işlemleri yaptık...
+remoteda değişiklikler ekledik.
